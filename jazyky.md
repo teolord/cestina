@@ -13,7 +13,6 @@
 - Čeština
 - Slovenština
 - Polština
-- Srbština
 
 #### Východní
 
