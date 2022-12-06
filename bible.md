@@ -10,7 +10,7 @@
 - doba vznuku 12st - 2st před naším letopočtem
 - zapsán v hebrejštině a aramejštině
 
-#### pět knih Mojžíšových
+### pět knih Mojžíšových
 - Genesis (Počátek)
 - Exodus (odchod)
 - Numeri
